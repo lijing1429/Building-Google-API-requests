@@ -63,5 +63,5 @@ def searchtime_coding(definetime):
     return timepart
  
 if __name__ == "__main__":
-  APIkey = {yourkey}
+  APIkey = yourkey
   directiondata = create_url('SW1A 2AD', 'SW1A 2AW', 'N', '07/03/2022 09:30:00', APIkey)
