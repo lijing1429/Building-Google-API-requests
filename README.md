@@ -1,4 +1,4 @@
-# Building-Google-API-requests
+# Build Google API requests
 
 The aim of this project is creating the request URLs according to the [google API documents](https://developers.google.com/maps/documentation/directions/get-directions).
 
