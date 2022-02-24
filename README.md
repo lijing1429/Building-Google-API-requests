@@ -8,12 +8,12 @@ The aim of this project is creating the request URLs according to the [google AP
 
 | Parameters | Description |
 | ----------- | ----------- |
-| Origin address | Reuired. Any UK postcode. |
-| Destination address | Reuired. Any UK postcode. |
-| Driving mode | Optional. *Y* or *N* |
-| Searching time | Optional. Any future time. |
+| `Origin address` | Reuired. Any UK postcode. |
+| `Destination address` | Reuired. Any UK postcode. |
+| `Driving mode` | Optional. *Y* or *N* |
+| `Searching time` | Optional. Any future time. |
 
-- **Output data**: Google API json data
+- **Output data**: `Google API json data`
 
 - **Tools**:  python, Google API Direction
 
